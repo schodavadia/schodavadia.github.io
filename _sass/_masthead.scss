@@ -56,3 +56,19 @@
     font-weight: 700;
   }
 }
+
+.active_masthead__menu-item {
+  display: block;
+  list-style-type: none;
+  white-space: nowrap;
+  font-weight: bold;
+
+  a {
+    margin-left: 0;
+  }
+
+  &--lg {
+    padding-right: 2em;
+    font-weight: bold;
+  }
+}

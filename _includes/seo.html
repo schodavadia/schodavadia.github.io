@@ -6,8 +6,10 @@
 {% endif %}
 {% assign seo_url = seo_url | default: site.github.url %}
 
-{% if page.title %}
+{% if page.title and page.title != "Home" %}
   {% assign seo_title = page.title | append: " " | append: site.title_separator | append: " " | append: site.title %}
+{% elsif page.title and page.title == "Home" %}
+  {% assign seo_title = site.title %}
 {% endif %}
 
 {% if seo_title %}
@@ -100,6 +102,18 @@
 {% if paginator.next_page %}
   <link rel="next" href="{{ paginator.next_page_path | prepend: seo_url }}">
 {% endif %}
+
+{% if page.title and page.title == "Home" %}
+  <script type="application/ld+json">
+    {
+      "@context" : "https://schema.org",
+      "@type" : "WebSite",
+      "name" : "{{ site.title }}",
+      "url" : "{{ site.url }}"
+    }
+  </script>
+{% endif %}
+
 
 {% if site.og_image %}
   <script type="application/ld+json">

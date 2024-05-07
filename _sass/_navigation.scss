@@ -183,8 +183,12 @@
     padding: 0.5rem 0;
     color: $masthead-link-color;
     text-decoration: none;
-
-    &:hover {
+    @media (hover: hover) {
+      &:hover {
+        color: $masthead-link-color-hover;
+      }
+    }
+    &:active {
       color: $masthead-link-color-hover;
     }
   }
@@ -209,7 +213,7 @@
       vertical-align: middle;
 
       &:first-child {
-        font-weight: bold;
+        /* font-weight: bold; */
 
         a {
           margin-left: 0;
@@ -240,8 +244,14 @@
             -ms-transform: scaleX(0);
                 transform: scaleX(0); /* hide*/
       }
-
-      &:hover:before {
+      @media (hover: hover) {
+        &:hover:before {
+          -webkit-transform: scaleX(1);
+              -ms-transform: scaleX(1);
+                  transform: scaleX(1); /* reveal*/
+        }
+      }
+      &:active:before {
         -webkit-transform: scaleX(1);
             -ms-transform: scaleX(1);
                 transform: scaleX(1); /* reveal*/

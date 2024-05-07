@@ -50,13 +50,15 @@
 
 .page__content {
 
+  text-align: justify;
+
   h2 {
     padding-bottom: 0.5em;
     border-bottom: 1px solid $border-color;
   }
 
   p, li, dl {
-    font-size: 1em;
+    font-size: .825em;
   }
 
   /* paragraph indents */
