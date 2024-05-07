@@ -8,5 +8,5 @@ main:
     url: /research/
     
   - title: "CV"
-    url: http://127.0.0.1:4000/files/Chodavadia_CV.pdf
+    url: /files/Chodavadia_CV.pdf
 

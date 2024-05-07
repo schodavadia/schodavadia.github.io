@@ -30,8 +30,8 @@ Click below for my Michigan Economics and Ford School of Public Policy Webpages.
   }
 </style>
 
-<a href="https://prod.lsa.umich.edu/econ/people/phd-students/saheel.html" class="custom-link">
+<a href="https://prod.lsa.umich.edu/econ/people/phd-students/saheel.html"  target="_blank" class="custom-link">
     **Michigan Economics**
-</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://fordschool.umich.edu/phd-students/saheel-chodavadia" class="custom-link">
+</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://fordschool.umich.edu/phd-students/saheel-chodavadia"  target="_blank" class="custom-link">
     **Ford School of Public Policy**
 </a>

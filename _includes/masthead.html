@@ -16,7 +16,11 @@
             {% if page.url == link.url %}
               <li class="active_masthead__menu-item"><a href="{{ domain }}{{ link.url }}">{{ link.title }}</a></li>
               {% else %}
-            <li class="masthead__menu-item"><a href="{{ domain }}{{ link.url }}">{{ link.title }}</a></li>
+                {% if link.url == '/files/Chodavadia_CV.pdf' %}
+                  <li class="masthead__menu-item"><a href="{{ domain }}{{ link.url }}" target="_blank">{{ link.title }}</a></li>
+                  {% else %}
+                    <li class="masthead__menu-item"><a href="{{ domain }}{{ link.url }}">{{ link.title }}</a></li>
+                {% endif %}
             {% endif %}
           {% endfor %}
         </ul>
