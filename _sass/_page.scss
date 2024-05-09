@@ -53,6 +53,7 @@
   text-align: justify;
 
   h2 {
+    margin-top: 0;
     padding-bottom: 0.5em;
     border-bottom: 1px solid $border-color;
   }
@@ -102,6 +103,14 @@
     font-size: $type-size-6;
   }
 
+blockquote {
+    margin: 1em 1em 2em 0;
+    padding-left: 1em;
+    padding-right: 1em;
+    font-style: italic;
+    border-left:0.25em solid #52acc8
+}
+   
   /* blockquote citations */
   blockquote + .small {
     margin-top: -1.5em;
