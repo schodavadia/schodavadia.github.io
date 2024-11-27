@@ -15,11 +15,10 @@ Working Papers
 Works in Progress
 ------
 
-**Racial Disparities in Agglomeration Spillovers** \
+**Who Benefits from Million Dollar Plants? The Missing Local Beneficiaries** \
 <span style="font-size:.9em;">with [Rahul Gupta](https://rahul-r-gupta.github.io){:target="_blank"}, [William Kerr](https://www.hbs.edu/faculty/Pages/profile.aspx?facId=337265){:target="_blank"}, and [Stephen Ross](https://econ.uconn.edu/ross/){:target="_blank"}</span>
 
-**Returns To Returning: Return Migrant Type & Industrial Growth** \
-<span style="font-size:.9em;">with [Mika Inoue](https://mdinoue.github.io){:target="_blank"}</span>
+**Returns To Returning: Return Migrant Type & Industrial Growth**
 
 **Killing For Votes: Political Intimidation & Electoral Outcomes**
 
