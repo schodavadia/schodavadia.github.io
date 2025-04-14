@@ -26,5 +26,7 @@ Works in Progress
 
 **Educational Resource Allocation in Equilibrium**
 
-**Industrial Growth and Health: Disentangling Economic Development and Pollution**
+**Industrial Growth and Health: Disentangling Pollution and Development**
+
+**Killing For Votes: Political Intimidation and Electoral Outcomes**
 
