@@ -26,3 +26,5 @@ Works in Progress
 
 **Educational Resource Allocation in Equilibrium**
 
+**Industrial Growth and Health: Disentangling Economic Development and Pollution**
+
