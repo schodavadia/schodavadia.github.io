@@ -18,11 +18,11 @@ Works in Progress
 **Who Benefits from Million Dollar Plants? The Missing Local Beneficiaries** \
 <span style="font-size:.9em;">with [Rahul Gupta](https://rahul-r-gupta.github.io){:target="_blank"}, [William Kerr](https://www.hbs.edu/faculty/Pages/profile.aspx?facId=337265){:target="_blank"}, and [Stephen Ross](https://econ.uconn.edu/ross/){:target="_blank"}</span>
 
-**Returns To Returning: Return Migrant Type & Industrial Growth**
+**Artificial Intelligence and Innovation Rates**
 
-**Killing For Votes: Political Intimidation & Electoral Outcomes**
-
-**Industrial Growth & Health: Disentangling Economic Development & Pollution**
+**Start-Up Employee Business Expenses and Innovation**
 
 **Networks, Social Perception, and Technology Adoption: Evidence From Nepal**
+
+**Educational Resource Allocation in Equilibrium**
 
